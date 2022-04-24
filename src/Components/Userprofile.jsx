@@ -18,37 +18,37 @@ const Userprofile = ({userlist}) => {
                         <h3 className='pb-3'>General Info</h3>
                         <div className="row">
 
-                          <div className="col-4">
+                          <div className="col-lg-4 col-md-4 col-sm-3">
                             <p>Date of Birth </p>
                           </div>
-                          <div className="col-6">
+                          <div className="col-lg-6 col-md-6 col-sm-8">
                             <p>Aug 25, 1988</p>
                           </div>
                         </div>
 
                         <div className="row">
-                          <div className="col-4">
+                          <div className="col-lg-4 col-md-4 col-sm-3">
                             <p>Address </p>
                           </div>
-                          <div className="col-6">
+                          <div className="col-lg-6 col-md-6 col-sm-8">
                             <p>{userprofile.address.street}, {userprofile.address.suite}, {userprofile.address.city}</p>
                           </div>
                         </div>
 
                         <div className="row">
-                          <div className="col-4">
+                          <div className="col-lg-4 col-md-4 col-sm-3">
                             <p>E-mail </p>
                           </div>
-                          <div className="col-8">
+                          <div className="col-lg-8 col-md-8 col-sm-9">
                             <p>{userprofile.email}</p>
                           </div>
                         </div>
 
                         <div className="row">
-                          <div className="col-4">
+                          <div className="col-lg-4 col-md-4 col-sm-3">
                             <p>Phone </p>
                           </div>
-                          <div className="col-6">
+                          <div className="col-lg-6 col-md-6 col-sm-8">
                             <p>{userprofile.phone}</p>
                           </div>
                         </div>
