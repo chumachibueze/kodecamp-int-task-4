@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kodecamp-int-task-4/static/css/main.3f991225.css",
-    "main.js": "/kodecamp-int-task-4/static/js/main.3e7f7ea0.js",
+    "main.js": "/kodecamp-int-task-4/static/js/main.b948e9f9.js",
     "static/js/787.15ecac12.chunk.js": "/kodecamp-int-task-4/static/js/787.15ecac12.chunk.js",
     "static/media/bootstrap-icons.woff?": "/kodecamp-int-task-4/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/kodecamp-int-task-4/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/kodecamp-int-task-4/index.html",
     "main.3f991225.css.map": "/kodecamp-int-task-4/static/css/main.3f991225.css.map",
-    "main.3e7f7ea0.js.map": "/kodecamp-int-task-4/static/js/main.3e7f7ea0.js.map",
+    "main.b948e9f9.js.map": "/kodecamp-int-task-4/static/js/main.b948e9f9.js.map",
     "787.15ecac12.chunk.js.map": "/kodecamp-int-task-4/static/js/787.15ecac12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f991225.css",
-    "static/js/main.3e7f7ea0.js"
+    "static/js/main.b948e9f9.js"
   ]
 }
