@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 24px;
+    
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* to break the word */
+.name-header{
+    width: 0;
+    overflow: visible;
+}
+
+.profile-container{
+    background-color: #F3F5F5;
+}
+
+.user-text{
+    max-width: 73%;
+}
