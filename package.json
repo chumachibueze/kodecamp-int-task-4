@@ -1,8 +1,8 @@
 {
-  "homepage": "https://chumachibueze.github.io/kodecamp-int-task-4 ",
+  "homepage": "https://chumachibueze.github.io/kodecamp-int-task-4",
   "name": "kodecamp-int-task-4",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@popperjs/core": "^2.11.5",
     "@testing-library/jest-dom": "^5.16.4",
